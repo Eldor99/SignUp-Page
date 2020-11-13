@@ -1,0 +1,24 @@
+{
+  "name": "signup-page",
+  "version": "1.0.0",
+  "description": "NewsLetter SignUp page",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eldor99/SignUp-Page.git"
+  },
+  "author": "Eldor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Eldor99/SignUp-Page/issues"
+  },
+  "homepage": "https://github.com/Eldor99/SignUp-Page#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "request": "^2.88.2"
+  }
+}
